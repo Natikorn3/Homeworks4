@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "todo": "css",
+      "completed": false,
+      "user": 1,
+      "id": 1
+    },
+    {
+      "todo": "55555",
+      "completed": false,
+      "user": 1,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "name": "andy"
+    },
+    {
+      "name": "bobby"
+    }
+  ]
+}
